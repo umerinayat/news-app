@@ -1,0 +1,75 @@
+@font-face {
+    font-family: "franklin-gothic-heavy";
+    src: url(./assets/fonts/franklin-gothic-heavy-regular.ttf);
+}
+
+@font-face {
+    font-family: "frabk";
+    src: url(./assets/fonts/frabk.ttf);
+}
+
+body {
+    font-family: "frabk";
+    background-color: #F6F6F6;
+}
+
+.font-gh {
+    font-family: 'franklin-gothic-heavy';
+}
+
+.bg-image {
+    background: url(./assets/images/guest-bg-img.jpg);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    height: 100vh;
+    background-color: #464646;
+}
+
+.custom-form-control {
+    border-radius: 2px;
+    border: 2px solid rgb(189, 184, 184);
+}
+
+.custom-form-control:focus {
+    border-color: #181818;
+    outline: 0;
+    box-shadow: 0 0 0 0.25rem rgba(121, 121, 121, 0.234);
+}
+
+.error-message  {
+    color: red;
+    padding: 0px;
+    margin: 4px;
+}
+
+mark {
+    background-color: rgb(255, 255, 113);
+}
+
+.card, .sk-card {
+    max-width: 48%;
+}
+
+.source {
+    position: absolute;
+    background-color: #333435;
+    padding: 8px 16px;
+    color: #fff;
+    top: 0;
+    left: 0;
+    letter-spacing: 1.3px;
+    opacity: .9;
+}
+
+.date {
+    position: absolute;
+    background-color: #333435;
+    padding: 8px 16px;
+    color: #fff;
+    top: 46px;
+    left: 0;
+    opacity: .9;
+    letter-spacing: 1.3px;
+}
