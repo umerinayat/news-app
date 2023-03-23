@@ -16,7 +16,4 @@ RUN composer install
 
 EXPOSE 8000
 
-RUN php artisan optimize:clear
-RUN php artisan config:cache
-
 CMD php artisan serve --host=0.0.0.0
