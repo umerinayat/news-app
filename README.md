@@ -22,9 +22,9 @@ git clone https://github.com/umerinayat/news-app.git
 cd ./news-app
 ```
 
-3. Make sure you have docker installed in a system and run the following docker commands in 
+3. Docker Compose
 
 ```bash
-docker-compose up
+In Progress | TODO
 ```
 
