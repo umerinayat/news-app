@@ -8,9 +8,9 @@
     -    https://github.com/jcobhams/newsapi-php
 
 
-## Running a Project Locally
+### Running a Local Development Environment
 
-1.   Clone a Project
+1.   Clone a Containerize Project Repo
 
 ```bash
 git clone https://github.com/umerinayat/news-app.git
@@ -22,9 +22,15 @@ git clone https://github.com/umerinayat/news-app.git
 cd ./news-app
 ```
 
+## Setting Up the Application’s .env Files
+
+```bash
+TODO
+```
+
 3. Docker Compose
 
 ```bash
-In Progress | TODO
+|TODO
 ```
 
