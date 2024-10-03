@@ -1,5 +1,3 @@
-# Take-Home Challenge FullStack
-
 ## News Aggregator Website
 
 ### Integrated News API's
