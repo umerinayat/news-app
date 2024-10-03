@@ -14,20 +14,4 @@
 git clone https://github.com/umerinayat/news-app.git
 ```
 
-2. Go to Project Root directory
-
-```bash
-cd ./news-app
-```
-
-### Setting Up the Application’s .env Files
-
-
-TODO
-
-
-### Docker Compose
-
-TODO
-
 
